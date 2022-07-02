@@ -1,0 +1,13 @@
+body{
+    color:aqua;
+    p {
+        background-color: #fff;
+        &:hover {
+            text-decoration: none;
+        }
+    }
+}
+
+h1 {
+    color:#fff;
+}
